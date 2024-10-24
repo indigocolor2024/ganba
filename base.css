@@ -11,6 +11,6 @@ body h1  {
 }
 body    {
 	background-image: url(%E6%8B%9D%E5%95%93.jpg);
-	background-size: 100px auto;
+	background-size: 100%;
 	background-repeat: no-repeat;
 }
